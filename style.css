@@ -50,16 +50,6 @@
   background-color: #f08a4b;
 }
 
-@media (min-width: 769px) and (max-width: 600px){
-  #middle{
-    flex-direction: column;
-  }
-
-  #NAV {
-    widows: 100vw;
-  }
-}
-
 @media (min-width: 415px) and (max-width: 1000px){
   #header {
     height: 15%;
