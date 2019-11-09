@@ -50,7 +50,7 @@
   background-color: #f08a4b;
 }
 
-@media (min-width: 415px) and (max-width: 1000px){
+@media (min-width: 415px) and (max-width: 1100px){
   #header {
     height: 15%;
   }
