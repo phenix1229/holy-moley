@@ -50,7 +50,7 @@
   background-color: #f08a4b;
 }
 
-@media (min-width: 415px) and (max-width: 1100px){
+@media (min-width: 501px) and (max-width: 1100px){
   #header {
     height: 15%;
   }
@@ -83,7 +83,7 @@
   }
 }
 
-@media (max-width: 414px){
+@media (max-width: 500px){
   #header {
     height: 15%;
   }
